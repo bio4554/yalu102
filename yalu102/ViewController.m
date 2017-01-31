@@ -124,6 +124,7 @@ char dt[128];
      we out here!
      
      */
+    //[dope setTitle:@"rip ur phone" forState:UIControlStateDisabled];
     
     mach_port_t vch = 0;
     
